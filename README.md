@@ -132,9 +132,3 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 ```
 
 ---
-
-Let me know if:
-- You want to add deployment steps (like Vercel + Railway/Fly.io)
-- You'd like a project badge or logo at the top
-- You're ready to publish and want a `.gitignore`, `Dockerfile`, or `LICENSE` file added
-```
